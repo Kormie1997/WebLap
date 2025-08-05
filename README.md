@@ -10,9 +10,9 @@ A projekt célja egy átlátható, letisztult és mobilbarát weboldal létrehoz
 
 ---
 ## Akik készítették az oldalt:
-Gellérné Nagy Tünde: Tartalmi szerkezet
-Kertész Bernadett: Ötletadó
-Kormos Levente: Az weboldal teljes megjelenéséért felelt
+- Gellérné Nagy Tünde: Tartalmi szerkezet
+- Kertész Bernadett: Ötletadó
+- Kormos Levente: Az weboldal teljes megjelenéséért felelt
 
 ---
 
